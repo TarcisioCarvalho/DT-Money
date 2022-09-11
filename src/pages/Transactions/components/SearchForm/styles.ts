@@ -14,10 +14,10 @@ input {
     padding:1rem;
     &::placeholder{
         color:${({theme})=>theme["gray-500"]};
-    }
+    }   
+}
 
-
-    button{
+button{
         display:flex;
         align-items:center;
         gap: 0.75rem;
@@ -37,5 +37,4 @@ input {
             transition:background-color 0.2s,color 0.2s,border-color 0.2s;
         }
     }
-}
 `;
