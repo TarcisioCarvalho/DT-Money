@@ -1,28 +1,68 @@
 {
-    "transactions":[
-        {
-            "id":1,
-            "description":"Desenvolvimento de site",
-            "type":"income",
-            "category":"Venda",
-            "price":1400,
-            "createdAt": "2022-09-23T02:14:13.748Z"
-        },
-        {
-            "id":2,
-            "description":"Hamburguer",
-            "type":"outcome",
-            "category":"Compra",
-            "price":50,
-            "createdAt": "2022-09-23T01:14:13.748Z"
-        },
-        {
-            "id":3,
-            "description":"Lanche",
-            "type":"outcome",
-            "category":"Venda",
-            "price":70,
-            "createdAt": "2022-09-20T02:14:13.748Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 1400,
+      "createdAt": "2022-09-23T02:14:13.748Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 50,
+      "createdAt": "2022-09-23T01:14:13.748Z"
+    },
+    {
+      "id": 3,
+      "description": "Lanche",
+      "type": "outcome",
+      "category": "Venda",
+      "price": 70,
+      "createdAt": "2022-09-20T02:14:13.748Z"
+    },
+    {
+      "description": "Freela",
+      "price": 10,
+      "category": "Trabalho",
+      "type": "income",
+      "createdAt": "2022-09-24T20:44:51.643Z",
+      "id": 4
+    },
+    {
+      "description": "Curso",
+      "price": 1000,
+      "category": "Educação",
+      "type": "outcome",
+      "createdAt": "2022-09-24T20:49:39.100Z",
+      "id": 5
+    },
+    {
+      "description": "Salario",
+      "price": 2000,
+      "category": "Trabalho",
+      "type": "income",
+      "createdAt": "2022-09-24T21:03:54.147Z",
+      "id": 6
+    },
+    {
+      "description": "Bico",
+      "price": 150,
+      "category": "Trabalho",
+      "type": "income",
+      "createdAt": "2022-09-24T21:05:22.302Z",
+      "id": 7
+    },
+    {
+      "description": "Curso",
+      "price": 100,
+      "category": "Educação",
+      "type": "outcome",
+      "createdAt": "2022-09-24T21:06:50.056Z",
+      "id": 8
+    }
+  ]
 }
