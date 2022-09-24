@@ -15,6 +15,14 @@
             "category":"Compra",
             "price":50,
             "createdAt": "2022-09-23T01:14:13.748Z"
+        },
+        {
+            "id":3,
+            "description":"Lanche",
+            "type":"outcome",
+            "category":"Venda",
+            "price":70,
+            "createdAt": "2022-09-20T02:14:13.748Z"
         }
     ]
 }
